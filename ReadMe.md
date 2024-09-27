@@ -28,7 +28,9 @@
 - Gestionar base de datos de tienda NIKE
 - Crear, eliminar y editar datos
 ---
-## Explicación de tablas
+### Explicación de tablas
+- Se realizó directamente con StarUML, abre el archivo "INDEX.HTML" del actual repositorio o despliega directamente desde GitHub
+---
 ### Consultas
 - 1. Obtener todos los productos disponibles en inventario.
 ```SQL
