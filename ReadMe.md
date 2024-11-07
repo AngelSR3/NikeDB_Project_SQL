@@ -13,7 +13,6 @@
 ## 👽️Hecho por:
 - [Arley Mantilla](#Autor)
 - [Angel Simanca](#Autor)
-- [AsmvProjects](#AsmvProjects)
 
 ---
 ## Tecnologías📱
